@@ -1,6 +1,6 @@
 ## Welcome to Safan41's Github Gateway
 
-You can use the [editor on GitHub](https://github.com/safan41/safan41.github.io-gateway/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is used for the distibution of projects I developed.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
