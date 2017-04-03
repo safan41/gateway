@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Safan41's Github Gateway
 
 You can use the [editor on GitHub](https://github.com/safan41/safan41.github.io-gateway/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
