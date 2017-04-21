@@ -6,7 +6,7 @@ This site is used for the distibution of projects I developed.
 
 [poop](https://github.com/safan41/poop)
 
-## OHHHHHHHHHHHHHHHH BOSTON OHHHHHHHHHHH AND ALAN TOO AAHHHHH
+## BAIZ ARE LIT ALLUN AND BOSTON
 
 
 
