@@ -6,7 +6,6 @@ This site is used for the distibution of projects I developed.
 
 [poop](https://github.com/safan41/poop)
 
-## BAIZ ARE LIT ALLUN AND BOSTON
 
 
 
