@@ -2,14 +2,4 @@
 
 This site is used for the distibution of projects I developed.
 
-[MetalX](https://github.com/safan41/MetalX)
-
-[poop](https://github.com/safan41/poop)
- 
-[Decrypt9X](https://github.com/safan41/Decrypt9X)
-
-[SPC office](https://github.com/safan41/spc_offfice)
-
-
-
-
+[hardmodguide](https://github.com/safan41/hardmodguide)
